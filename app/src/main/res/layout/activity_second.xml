@@ -9,9 +9,9 @@
 
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/rv_items"
-        tools:listitem="@layout/grocery_rv_items"
         android:layout_width="match_parent"
-        android:layout_height="match_parent">
+        android:layout_height="match_parent"
+        tools:listitem="@layout/grocery_rv_items">
 
     </androidx.recyclerview.widget.RecyclerView>
 

@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace 'com.jasmeet.grocery'
+    namespace 'com.preyash.grocery'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.jasmeet.grocery"
+        applicationId "com.preyash.grocery"
         minSdk 25
         targetSdk 33
         versionCode 1

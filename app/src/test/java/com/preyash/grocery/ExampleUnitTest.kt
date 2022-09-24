@@ -1,4 +1,4 @@
-package com.jasmeet.grocery
+package com.preyash.grocery
 
 import org.junit.Test
 

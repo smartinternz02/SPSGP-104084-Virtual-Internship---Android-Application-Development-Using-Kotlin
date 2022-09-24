@@ -1,10 +1,10 @@
-package com.jasmeet.emailvalid.adapter
+package com.preyash.emailvalid.adapter
 
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
-import com.jasmeet.emailvalid.roomDB.GroceryItems
-import com.jasmeet.grocery.databinding.GroceryRvItemsBinding
+import com.preyash.emailvalid.roomDB.GroceryItems
+import com.preyash.grocery.databinding.GroceryRvItemsBinding
 
 class GroceryRvAdapter(var list: List<GroceryItems>,val groceryItemClickInterface:GroceryItemClickInterface):RecyclerView.Adapter<GroceryRvAdapter.GroceryViewHolder>() {
 

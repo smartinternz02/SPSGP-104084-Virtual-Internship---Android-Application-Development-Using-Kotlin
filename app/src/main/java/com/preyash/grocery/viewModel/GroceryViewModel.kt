@@ -1,8 +1,8 @@
-package com.jasmeet.emailvalid.viewModel
+package com.preyash.emailvalid.viewModel
 
 import androidx.lifecycle.ViewModel
-import com.jasmeet.emailvalid.repository.GroceryRepository
-import com.jasmeet.emailvalid.roomDB.GroceryItems
+import com.preyash.emailvalid.repository.GroceryRepository
+import com.preyash.emailvalid.roomDB.GroceryItems
 import kotlinx.coroutines.GlobalScope
 import kotlinx.coroutines.launch
 

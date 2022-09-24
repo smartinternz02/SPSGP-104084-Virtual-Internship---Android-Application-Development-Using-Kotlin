@@ -1,8 +1,8 @@
-package com.jasmeet.emailvalid.viewModel
+package com.preyash.emailvalid.viewModel
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider
-import com.jasmeet.emailvalid.repository.GroceryRepository
+import com.preyash.emailvalid.repository.GroceryRepository
 
 class GroceryViewModelFactory(private val repository: GroceryRepository):ViewModelProvider.NewInstanceFactory() {
 

@@ -1,8 +1,8 @@
-package com.jasmeet.grocery.activities
+package com.preyash.grocery.activities
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.jasmeet.grocery.R
+import com.preyash.grocery.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

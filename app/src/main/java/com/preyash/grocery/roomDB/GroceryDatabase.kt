@@ -1,4 +1,4 @@
-package com.jasmeet.emailvalid.roomDB
+package com.preyash.emailvalid.roomDB
 
 import android.content.Context
 import androidx.room.Database

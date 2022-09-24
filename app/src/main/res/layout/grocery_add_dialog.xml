@@ -9,7 +9,7 @@
     <RelativeLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:background="#040200">
+        android:background="#00BCD4">
 
         <TextView
             android:id="@+id/heading"
@@ -118,12 +118,12 @@
                     android:layout_marginTop="10dp"
                     android:layout_marginBottom="8dp"
                     android:text="CANCEL"
-                    android:textSize="25sp"
+                    android:textSize="20sp"
                     android:layout_marginStart="5sp"
                     android:layout_marginEnd="5dp"
                     app:cornerRadius="20dp"
-                    android:textColor="@color/black"
-                    android:backgroundTint="#FF0000"/>
+                    android:textColor="#000000"
+                    android:backgroundTint="#F95050"/>
 
                 <Button
                     android:id="@+id/btn_add"
@@ -136,9 +136,9 @@
                     android:layout_marginTop="10dp"
                     android:layout_marginBottom="8dp"
                     android:text="ADD"
-                    android:textSize="25sp"
+                    android:textSize="20sp"
                     android:textColor="@color/black"
-                    android:backgroundTint="#00FF00"/>
+                    android:backgroundTint="#0037FF"/>
             </LinearLayout>
 
         </LinearLayout>

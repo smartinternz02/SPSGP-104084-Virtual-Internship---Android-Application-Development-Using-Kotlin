@@ -1,4 +1,4 @@
-package com.jasmeet.grocery
+package com.preyash.grocery
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

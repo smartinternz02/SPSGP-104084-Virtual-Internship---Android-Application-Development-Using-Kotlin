@@ -12,7 +12,7 @@
     <RelativeLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:background="#000080">
+        android:background="#00BCD4">
 
         <LinearLayout
             android:id="@+id/idLL1"

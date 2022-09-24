@@ -1,4 +1,4 @@
-package com.jasmeet.grocery.activities
+package com.preyash.grocery.activities
 
 import android.app.Dialog
 import android.os.Bundle
@@ -9,14 +9,14 @@ import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProvider
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.google.android.material.snackbar.Snackbar
-import com.jasmeet.emailvalid.adapter.GroceryRvAdapter
-import com.jasmeet.emailvalid.repository.GroceryRepository
-import com.jasmeet.emailvalid.roomDB.GroceryDatabase
-import com.jasmeet.emailvalid.roomDB.GroceryItems
-import com.jasmeet.emailvalid.viewModel.GroceryViewModel
-import com.jasmeet.emailvalid.viewModel.GroceryViewModelFactory
-import com.jasmeet.grocery.R
-import com.jasmeet.grocery.databinding.ActivitySecondBinding
+import com.preyash.emailvalid.adapter.GroceryRvAdapter
+import com.preyash.emailvalid.repository.GroceryRepository
+import com.preyash.emailvalid.roomDB.GroceryDatabase
+import com.preyash.emailvalid.roomDB.GroceryItems
+import com.preyash.emailvalid.viewModel.GroceryViewModel
+import com.preyash.emailvalid.viewModel.GroceryViewModelFactory
+import com.preyash.grocery.R
+import com.preyash.grocery.databinding.ActivitySecondBinding
 
 class SecondActivity : AppCompatActivity(), GroceryRvAdapter.GroceryItemClickInterface {
 

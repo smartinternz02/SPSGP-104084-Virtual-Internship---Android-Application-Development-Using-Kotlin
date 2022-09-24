@@ -1,7 +1,7 @@
-package com.jasmeet.emailvalid.repository
+package com.preyash.emailvalid.repository
 
-import com.jasmeet.emailvalid.roomDB.GroceryDatabase
-import com.jasmeet.emailvalid.roomDB.GroceryItems
+import com.preyash.emailvalid.roomDB.GroceryDatabase
+import com.preyash.emailvalid.roomDB.GroceryItems
 
 class GroceryRepository(private val db: GroceryDatabase) {
 

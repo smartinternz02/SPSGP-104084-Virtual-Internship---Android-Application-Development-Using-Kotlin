@@ -1,4 +1,4 @@
-package com.jasmeet.emailvalid.roomDB
+package com.preyash.emailvalid.roomDB
 
 import androidx.lifecycle.LiveData
 import androidx.room.*

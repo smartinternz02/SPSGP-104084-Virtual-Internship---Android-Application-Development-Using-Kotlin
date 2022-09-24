@@ -12,7 +12,7 @@
     <color name="drawable_tint">#00008B</color>
     <color name="text_color">#00008B</color>
     <color name="grey">#808080</color>
-    <color name="background">#7E57C2</color>
+    <color name="background">#FCFCFC</color>
     <color name="card_back">#ECECEC</color>
     <color name="splash">#38c172</color>
 </resources>
